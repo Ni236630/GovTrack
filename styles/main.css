@@ -1,0 +1,31 @@
+body{
+  background-color: rgba(96, 103, 122, 0.397);
+}
+a {
+  color: darkred;
+}
+
+.committee__sublist{
+  font-size: smaller;
+}
+
+h2 {
+
+background-color: rgb(42, 76, 141);
+color: white;
+border-radius: 25px;
+padding: 0.25em;
+width: fit-content;
+
+}
+
+ul {
+  list-style-type: none;
+  
+}
+h1 {
+  font-size: 40px;
+  margin-bottom: none;
+  padding-bottom: none;
+  border: none;
+}
